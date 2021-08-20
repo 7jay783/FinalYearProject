@@ -1,0 +1,6 @@
+/.env
+/__pycache__
+/FaceRecognizer/__pycache__
+/data/images/**/*
+
+/env-linux.tar.gz
